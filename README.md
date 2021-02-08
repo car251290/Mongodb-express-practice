@@ -11,6 +11,14 @@ MongoDB Atlas makes it easy to control access to your database. Your database in
 To install Mongobd
 https://docs.mongodb.com/manual/installation/
 
+## The Model View Controller (MVC) Architecture
+The most popular software architecture, by far, is the Model View Controller.
+
+Model View Controller divides any large application into three parts:
+
+The Model
+The View
+The Controller
 
 # First be sure you have MongoDB and Node.js installed.
 
