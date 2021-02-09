@@ -26,8 +26,12 @@ The Model
 The View
 The Controller
 
+## Moongese
+help to undertsand the list of object use it this practice and the way to request database
+https://mongoosejs.com/docs/guide.html
+
 ## Practice and connect to Mongodb
-use Robo 3t the link
+use Robo 3t the link :3T will continue development of Robo 3T in parallel with its own MongoDB GUI and the good news is that it will be making Robo 3T free
 https://robomongo.org
 
 # First be sure you have MongoDB and Node.js installed.
