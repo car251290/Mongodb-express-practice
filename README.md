@@ -26,6 +26,10 @@ The Model
 The View
 The Controller
 
+## Practice and connect to Mongodb
+use Robo 3t the link
+https://robomongo.org
+
 # First be sure you have MongoDB and Node.js installed.
 
 ## Tools
