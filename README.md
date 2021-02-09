@@ -2,6 +2,12 @@
 practices with node.js express.js and Mongoose 
 
 this project help to get a response from a server and (get post update delate )
+if we want to get data we will write get data 
+if we want to post we write post data 
+and the update for get updates of the data 
+to get update data
+and delate the data.
+
 and how to build a good code!! in Back End.
 
 ## Mongodb
