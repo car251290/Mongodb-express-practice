@@ -1,7 +1,7 @@
 import { addNewContact, getContact, getContactwithID, updateContact, deleteContact } from '../controllers/crmController'
 
 // the methods of CRUD 
-
+// this are the end points 
 const routers = (app) => {
     app.router('/contact')
 
@@ -9,6 +9,7 @@ const routers = (app) => {
         //middleware to add 
         console.log(`REQUEST from ${req.originalUrl}`)
         console.log(`REQUEST from ${req.method}`)
+            // to past to the next function 
         next();
 
     }, getContact)
