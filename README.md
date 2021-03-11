@@ -34,6 +34,11 @@ https://mongoosejs.com/docs/guide.html
 use Robo 3t the link :3T will continue development of Robo 3T in parallel with its own MongoDB GUI and the good news is that it will be making Robo 3T free
 https://robomongo.org
 
+## Route
+You can add middleware and HTTP method routes (such as get, put, post, and so on) to router just like an application.
+
+For more information, see Router.
+
 # First be sure you have MongoDB and Node.js installed.
 
 ## Tools
