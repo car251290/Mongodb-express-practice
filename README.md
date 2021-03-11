@@ -36,6 +36,7 @@ https://robomongo.org
 
 ## Route
 You can add middleware and HTTP method routes (such as get, put, post, and so on) to router just like an application.
+A router object is an isolated instance of middleware and routes. You can think of it as a “mini-application,” capable only of performing middleware and routing functions. Every Express application has a built-in app router.
 
 For more information, see Router.
 
